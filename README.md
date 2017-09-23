@@ -16,6 +16,13 @@ Add `heartbeats-simple` as a dependency in `Cargo.toml`:
 heartbeats-simple = "0.4"
 ```
 
+## Project Source
+
+Find this and related project sources at the [libheartbeats organization on GitHub](https://github.com/libheartbeats).  
+This project originates at: https://github.com/libheartbeats/heartbeats-simple-rust
+
+Bug reports and pull requests for bug fixes and enhancements are welcome.
+
 ## License
 
 Licensed under either of
